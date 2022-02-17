@@ -13,5 +13,6 @@ public class GitDemo {
         System.out.println("第四次修改");
         System.out.println("新建dev分支行后做的第一次修改");
         System.out.println("dev分支为了演示分支合并冲突而新增加的一条语句");
+        System.out.println("此句是为了掩饰分支合并冲突而故意添加的语句");
     }
 }
