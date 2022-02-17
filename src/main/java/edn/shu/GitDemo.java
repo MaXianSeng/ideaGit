@@ -10,5 +10,6 @@ public class GitDemo {
         System.out.println("Hello Git!");
         System.out.println("第二次修改");
         System.out.println("第三次修改");
+        System.out.println("第四次修改");
     }
 }
